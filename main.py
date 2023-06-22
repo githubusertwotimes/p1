@@ -1,2 +1,2 @@
-print("lolauie")print()
-print('lol')
+eprint("lolauie")print()
+print('lol')uuei
