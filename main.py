@@ -1,1 +1,2 @@
-print("lolauie")
+print("lolauie")print()
+print('lol')
